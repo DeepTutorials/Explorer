@@ -28,3 +28,7 @@ Install [geth](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum "G
 
 Then refresh the page in your browser 
 # Explorer
+
+
+
+my address 
